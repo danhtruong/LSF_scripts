@@ -1,0 +1,22 @@
+#BSUB -J CNMF
+#BSUB -W 3:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q short 
+#BSUB -n 28
+#BSUB -M 64
+#BSUB -R rusage[mem=64]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+conda activate cnmf_env
+ipython Python/cnmf_dsrct_1.py
+
+echo "My R jobs are done."
+date
+echo "My job ran on the following host:"
+hostname
+
+ 
+

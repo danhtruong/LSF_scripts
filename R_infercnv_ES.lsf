@@ -1,0 +1,27 @@
+#BSUB -J infercnv
+#BSUB -W 8:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 24
+#BSUB -M 256
+#BSUB -R rusage[mem=256]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+var=$(date +"%FORMAT_STRING")
+now=$(date +"%m_%d_%Y")
+today=$(date +"%Y-%m-%d")
+
+module load R/4.0.0
+
+R CMD BATCH scripts/infercnv_ES.r Logs/${today}_infercnv.out
+
+echo "My R jobs are done."
+date
+echo "My job ran on the following host:"
+hostname
+
+ 
+

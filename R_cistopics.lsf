@@ -1,0 +1,23 @@
+#BSUB -J cistopic
+#BSUB -W 24:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 21
+#BSUB -M 2056
+#BSUB -R rusage[mem=2056]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+module load R/4.0.0
+
+R CMD BATCH scripts/cistopics.r Routput_cistopics.out
+
+echo "My R jobs are done."
+date
+echo "My job ran on the following host:"
+hostname
+
+ 
+

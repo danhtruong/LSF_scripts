@@ -1,0 +1,15 @@
+#BSUB -J STAR
+#BSUB -W 6:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 16
+#BSUB -M 64
+#BSUB -R rusage[mem=64]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+module load star
+
+STAR --runThreadN 16 --runMode genomeGenerate --genomeDir refdata-gex-GRCh38-2020-A/star --genomeFastaFiles $SCRATCH/refdata-gex-GRCh38-2020-A/fasta/genome.fa --sjdbGTFfile $SCRATCH/refdata-gex-GRCh38-2020-A/genes/genes.gtf

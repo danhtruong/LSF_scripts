@@ -1,0 +1,22 @@
+#BSUB -J Velocyto
+#BSUB -W 12:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 32
+#BSUB -M 1536
+#BSUB -R rusage[mem=1536]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+module load python
+velocyto run10x -m $SCRATCH/hg38_rmsk.gtf LPS_scRNA/WDLS-4_analysis $SCRATCH/refdata-gex-GRCh38-2020-A/genes/genes.gtf -@ 32 --samtools-memory 1200
+
+echo "My R jobs are done."
+date
+echo "My job ran on the following host:"
+hostname
+
+ 
+

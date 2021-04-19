@@ -1,0 +1,24 @@
+#BSUB -J PAGODA
+#BSUB -W 5:00
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 32
+#BSUB -M 128
+#BSUB -R rusage[mem=128]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+module load zlib/1.2.11 
+module load R/4.0.0
+
+R CMD BATCH scripts/PAGODA.r Routput_PAGODA.out
+
+echo "My R jobs are done."
+date
+echo "My job ran on the following host:"
+hostname
+
+ 
+

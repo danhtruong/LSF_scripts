@@ -1,0 +1,13 @@
+#BSUB -J fasterq-dump
+#BSUB -W 4:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 8
+#BSUB -M 64
+#BSUB -R rusage[mem=64]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+bash scripts/fasterq-dump.sh

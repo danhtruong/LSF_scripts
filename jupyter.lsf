@@ -1,0 +1,13 @@
+#BSUB -W 6:00 
+#BSUB -Is
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q interactive 
+#BSUB -n 2
+#BSUB -M 16
+#BSUB -R rusage[mem=16]
+#BSUB -XF
+#BSUB -u dtruong4@mdanderson.org
+/bin/bash
+conda activate cnmf_env
+jupyter notebook
