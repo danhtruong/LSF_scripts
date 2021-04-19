@@ -16,7 +16,7 @@ today=$(date +"%Y-%m-%d")
 
 module load R/4.0.0
 
-R CMD BATCH scripts/infercnv_ES.r Logs/${today}_infercnv.out
+R CMD BATCH scripts/infercnv_ES.r Logs/infercnv.out
 
 echo "My R jobs are done."
 date
