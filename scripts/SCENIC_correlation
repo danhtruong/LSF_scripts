@@ -1,0 +1,22 @@
+input <- LPS_data.cell
+exprMat <- GetAssayData(input, assay = 'SCT', slot = 'data') 
+exprMat <- as.matrix(exprMat)
+cellInfo <- input@meta.data
+
+library(SCENIC)
+org <- "hgnc" # or hgnc, or dmel
+dbDir <- "Z:/SCENIC/cisTarget_databases" # RcisTarget databases location
+myDatasetTitle <- "SCENIC LPS DATA" # choose a name for your analysis
+
+dbs <- c('10kb' = 'hg38__refseq-r80__10kb_up_and_down_tss.mc9nr.feather', 
+         '500bp' = 'hg38__refseq-r80__500bp_up_and_100bp_down_tss.mc9nr.feather')
+scenicOptions <- initializeScenic(org=org, dbDir=dbDir, dbs=dbs, datasetTitle=myDatasetTitle, nCores=28) 
+
+#scenicOptions@inputDatasetInfo$cellInfo <- "int/cellInfo.Rds"
+saveRDS(scenicOptions, file="int/scenicOptions.Rds") 
+
+genesKept <- geneFiltering(exprMat, scenicOptions=scenicOptions,
+                           minCountsPerGene=3*.01*ncol(exprMat),
+                           minSamples=ncol(exprMat)*.01)
+exprMat_filtered <- exprMat[genesKept, ]
+runCorrelation(exprMat_filtered, scenicOptions)

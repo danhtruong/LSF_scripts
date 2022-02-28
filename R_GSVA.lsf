@@ -1,0 +1,26 @@
+#BSUB -J GSVA
+#BSUB -W 3:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q short
+#BSUB -n 28
+#BSUB -M 128
+#BSUB -R rusage[mem=128]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+var=`date +"%FORMAT_STRING"`
+now=`date +"%m_%d_%Y"`
+now=`date +"%Y-%m-%d"`
+
+module load netcdf
+module load R
+
+R CMD BATCH scripts/gsva.r outs/gsva_${now}.out
+
+echo "My job ran on the following host:"
+hostname
+
+ 
+

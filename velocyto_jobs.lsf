@@ -1,24 +1,22 @@
 #BSUB -J "velocyto" 
-#BSUB -W 3:00 
+#BSUB -W 15:00 
 #BSUB -o output 
 #BSUB -e logs 
-#BSUB -q short 
+#BSUB -q medium 
 #BSUB -n 6 
-#BSUB -M 32 
-#BSUB -R rusage[mem=32] 
+#BSUB -M 64 
+#BSUB -R rusage[mem=64] 
 #BSUB -N 
 #BSUB -B 
 #BSUB -env "all"
 #BSUB -u dtruong4@mdanderson.org
 
-module load python
-module load samtools
+#bash $HOME/LSF_scripts/scripts/samtools.sh $f
 
-samtools sort -t CB -O BAM -o $f/outs/cellsorted_possorted_genome_bam.bam $f/outs/possorted_genome_bam.bam
-velocyto run10x -m $SCRATCH/hg38_rmsk.gtf $f $SCRATCH/refdata-gex-GRCh38-2020-A/genes/genes.gtf -@ 6 --samtools-memory 32
+bash $HOME/LSF_scripts/scripts/velocyto.sh $f
 
 echo "My R jobs are done."
 date
-$f
+echo "$f"
 echo "My job ran on the following host:"
 hostname

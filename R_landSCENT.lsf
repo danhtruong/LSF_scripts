@@ -2,21 +2,23 @@
 #BSUB -W 24:00 
 #BSUB -o output
 #BSUB -e logs
-#BSUB -q medium
-#BSUB -n 16
-#BSUB -M 512
-#BSUB -R rusage[mem=512]
+#BSUB -q highmem
+#BSUB -n 28
+#BSUB -M 1024
+#BSUB -R rusage[mem=1024]
 #BSUB -N
 #BSUB -B
 #BSUB -u dtruong4@mdanderson.org
 
-module load R/4.0.0
+var=`date +"%FORMAT_STRING"`
+now=`date +"%m_%d_%Y"`
+now=`date +"%Y-%m-%d"`
 
+module load R
 
-R CMD BATCH scripts/MTL_LandSCENT.R MTL_LandSCENT.out
+#R CMD BATCH scripts/MTL_LandSCENT.R MTL_LandSCENT.out
+R CMD BATCH scripts/LPS_LandSCENT.R outs/LPS_LandSCENT_${now}.out
 
-echo "My R jobs are done."
-date
 echo "My job ran on the following host:"
 hostname
 

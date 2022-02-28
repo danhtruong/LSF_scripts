@@ -1,0 +1,26 @@
+#BSUB -J cytotrace
+#BSUB -W 12:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q highmem
+#BSUB -n 20
+#BSUB -M 512
+#BSUB -R rusage[mem=512]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+var=`date +"%FORMAT_STRING"`
+now=`date +"%m_%d_%Y"`
+now=`date +"%Y-%m-%d"`
+
+module load netcdf
+module load R
+
+R CMD BATCH scripts/cytotrace.r outs/cytotrace_${now}.out
+
+echo "My job ran on the following host:"
+hostname
+
+ 
+

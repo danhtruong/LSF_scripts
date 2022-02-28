@@ -1,0 +1,25 @@
+
+#BSUB -J infercnv
+#BSUB -W 6:00 
+#BSUB -o output
+#BSUB -e logs
+#BSUB -q medium 
+#BSUB -n 28
+#BSUB -M 256
+#BSUB -R rusage[mem=256]
+#BSUB -N
+#BSUB -B
+#BSUB -u dtruong4@mdanderson.org
+
+module load R/4.0.0
+
+
+R CMD BATCH scripts/infercnv_ES_PDX.r Logs/Routput_infercnv_ES_PDX.out
+
+echo "My R jobs are done."
+date
+echo "My job ran on the following host:"
+hostname
+
+ 
+

@@ -6,13 +6,13 @@ ES_patient <- readRDS('../inputs/ES_patient_data.rds')
 
 gencode_v19_gene_pos <- read.delim("../inputs/gencode_v19_gene_pos.txt", header=FALSE, row.names=1)
  
-metadata <- ES_patient@meta.data[,'orig.ident', drop = FALSE]
+metadata <- ES_patient@meta.data[,'Annotations', drop = FALSE]
 ref <- c("Skeletal muscle" ,"Adipocytes", "Endothelial cells" , "CD4+ T-cells"  ) #Add reference 
 
 
 cnv = CreateInfercnvObject(raw_counts_matrix=ES_patient@assays$RNA@counts,
                                       annotations_file=metadata,
-                                      gene_order_file=gencode_v19_gene_pos, ref_group_names=intersect(unique(metadata$orig.ident), ref)) 
+                                      gene_order_file=gencode_v19_gene_pos, ref_group_names=intersect(unique(metadata$Annotations), ref)) 
   
   
 cnv = infercnv::run(cnv,

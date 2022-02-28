@@ -1,4 +1,5 @@
-#BSUB -W 6:00 
+#BSUB -W 2:00 
+#BSUB -XF
 #BSUB -Is
 #BSUB -o output
 #BSUB -e logs
@@ -7,5 +8,4 @@
 #BSUB -M 16
 #BSUB -R rusage[mem=16]
 #BSUB -u dtruong4@mdanderson.org
-#BSUB -XF
 /bin/bash

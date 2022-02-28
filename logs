@@ -1,0 +1,2186 @@
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) R/4.0.3 => R/4.0.0
+
+/risapps/rhel7/R/4.0.0/lib64/R/bin/BATCH: line 60: 42670 Segmentation fault      (core dumped) ${R_HOME}/bin/R -f ${in} ${opts} ${R_BATCH_OPTIONS} > ${out} 2>&1
+/home/dtruong4/.lsbatch/1619810999.926742.shell: line 10: $'\r': command not found
+/home/dtruong4/.lsbatch/1619810999.926742.shell: line 11: /bin/bash
+: No such file or directory
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1621274318.546517.shell: line 10: /bin/bash
+: No such file or directory
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+User defined signal 2
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+User defined signal 2
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+User defined signal 2
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.0.3
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+User defined signal 2
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+User defined signal 2
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1629126410.6405483.shell: line 11: /bin/bash
+: No such file or directory
+/home/dtruong4/.lsbatch/1629126475.6405601.shell: line 11: /bin/bash
+: No such file or directory
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568534.11228424.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568534.11228424.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 9558 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568534.11228424.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568534.11228424.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568534.11228424.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636568531.11228422.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568531.11228422.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 13266 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568531.11228422.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568531.11228422.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568531.11228422.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636568529.11228420.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568529.11228420.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 13290 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568529.11228420.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568529.11228420.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568529.11228420.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636568528.11228419.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568528.11228419.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 17214 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568528.11228419.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568528.11228419.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568528.11228419.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636568532.11228423.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568532.11228423.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 18126 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568532.11228423.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568532.11228423.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568532.11228423.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636568530.11228421.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568530.11228421.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 20280 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568530.11228421.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568530.11228421.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568530.11228421.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636568527.11228418.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636568527.11228418.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+[bam_sort_core] merging from 19182 files and 6 in-memory blocks...
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam" : Too many open files
+samtools sort: fail to open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis/outs/cellsorted_possorted_genome_bam.bam.tmp.4092.bam": Too many open files
+Traceback (most recent call last):
+  File "/risapps/rhel7/python/3.7.3/bin/velocyto", line 10, in <module>
+    sys.exit(cli())
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 764, in __call__
+    return self.main(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 717, in main
+    rv = self.invoke(ctx)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 1137, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 956, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/click/core.py", line 555, in invoke
+    return callback(*args, **kwargs)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/run10x.py", line 115, in run10x
+    samtools_memory=samtools_memory, dump=dump, loom_numeric_dtype=dtype, verbose=verbose, additional_ca=additional_ca)
+  File "/risapps/rhel7/python/3.7.3/lib/python3.7/site-packages/velocyto/commands/_run.py", line 225, in _run
+    Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``")
+MemoryError: bam file #0 could not be sorted by cells.
+                This is probably related to an old version of samtools, please install samtools >= 1.6.                In alternative this could be a memory error, try to set the --samtools_memory option to a value compatible with your system.                 Otherwise sort manually by samtools ``sort -l [compression] -m [mb_to_use]M -t [tagname] -O BAM -@ [threads_to_use] -o cellsorted_[bamfile] [bamfile]``
+/home/dtruong4/.lsbatch/1636568527.11228418.shell: line 19: $'\r': command not found
+/home/dtruong4/.lsbatch/1636568527.11228418.shell: line 21: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636568527.11228418.shell: line 22: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580013.11229794.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580013.11229794.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580013.11229794.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580013.11229794.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580013.11229794.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580013.11229794.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580012.11229793.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580012.11229793.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580012.11229793.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580012.11229793.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580012.11229793.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580012.11229793.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580011.11229792.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580011.11229792.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580011.11229792.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580011.11229792.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580011.11229792.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580011.11229792.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580014.11229795.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580014.11229795.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580014.11229795.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580014.11229795.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580014.11229795.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580014.11229795.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580015.11229796.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580015.11229796.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580015.11229796.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580015.11229796.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580015.11229796.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580015.11229796.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580016.11229799.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580016.11229799.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580016.11229799.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580016.11229799.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580016.11229799.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580016.11229799.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636580017.11229800.shell: line 13: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580017.11229800.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis/outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "/rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis/outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636580017.11229800.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580017.11229800.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636580017.11229800.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636580017.11229800.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581287.11229844.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581287.11229844.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581287.11229844.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581287.11229844.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581287.11229844.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581287.11229844.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-1-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581288.11229845.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581288.11229845.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581288.11229845.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581288.11229845.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581288.11229845.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581288.11229845.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/DDLS-3_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581289.11229846.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581289.11229846.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581289.11229846.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581289.11229846.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581289.11229846.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581289.11229846.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-4-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581290.11229847.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581290.11229847.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581290.11229847.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581290.11229847.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581290.11229847.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581290.11229847.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-5_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581291.11229848.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581291.11229848.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581291.11229848.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581291.11229848.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581291.11229848.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581291.11229848.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-6-1_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581293.11229849.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581293.11229849.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581293.11229849.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581293.11229849.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581293.11229849.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581293.11229849.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-7_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1636581294.11229851.shell: line 13: $'\r': command not found
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1636581294.11229851.shell: line 16: $'\r': command not found
+[E::hts_open_format] Failed to open file "outs/possorted_genome_bam.bam
+" : No such file or directory
+samtools sort: can't open "outs/possorted_genome_bam.bam
+": No such file or directory
+/home/dtruong4/.lsbatch/1636581294.11229851.shell: line 18: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581294.11229851.shell: line 20: $'\r': command not found
+/home/dtruong4/.lsbatch/1636581294.11229851.shell: line 22: $'date\r': command not found
+/home/dtruong4/.lsbatch/1636581294.11229851.shell: line 23: /rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/velo/WDLS-8_analysis
+: No such file or directory
+/home/dtruong4/.lsbatch/1639752987.12566804.shell: line 12: $'\r': command not found
+/home/dtruong4/.lsbatch/1639752987.12566804.shell: line 13: /bin/bash
+: No such file or directory
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = 'Results\LPS_velocity_embedding_strea.png')
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639753084.12566805.shell: line 12: $'\r': command not found
+
+ArgumentError: Invalid shells: 
+  - bash
+
+Currently available shells are:
+  - bash
+  - fish
+  - powershell
+  - tcsh
+  - xonsh
+  - zsh
+
+/home/dtruong4/.lsbatch/1639753084.12566805.shell: line 14: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = 'Results\LPS_velocity_embedding_strea.png')
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639753136.12566806.shell: line 12: $'\r': command not found
+
+ArgumentError: Invalid shells: 
+  - bash
+
+Currently available shells are:
+  - bash
+  - fish
+  - powershell
+  - tcsh
+  - xonsh
+  - zsh
+
+/home/dtruong4/.lsbatch/1639753136.12566806.shell: line 14: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = 'LPS_velocity_embedding_strea.png')
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639753216.12566807.shell: line 12: $'\r': command not found
+
+ArgumentError: Invalid shells: 
+  - bash
+
+Currently available shells are:
+  - bash
+  - fish
+  - powershell
+  - tcsh
+  - xonsh
+  - zsh
+
+/home/dtruong4/.lsbatch/1639753216.12566807.shell: line 14: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639753263.12566822.shell: line 12: /bin/bash
+: No such file or directory
+/home/dtruong4/.lsbatch/1639753263.12566822.shell: line 13: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639753323.12566823.shell: line 12: /bin/bash
+: No such file or directory
+/home/dtruong4/.lsbatch/1639753323.12566823.shell: line 13: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639753463.12566825.shell: line 12: $'\r': command not found
+
+ArgumentError: Invalid shells: 
+  - bash
+
+Currently available shells are:
+  - bash
+  - fish
+  - powershell
+  - tcsh
+  - xonsh
+  - zsh
+
+/home/dtruong4/.lsbatch/1639753463.12566825.shell: line 14: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639755872.12571658.shell: line 12: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639755960.12571659.shell: line 13: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639756133.12571779.shell: line 13: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+
+ArgumentError: Invalid shells: 
+  - bash
+
+Currently available shells are:
+  - bash
+  - fish
+  - powershell
+  - tcsh
+  - xonsh
+  - zsh
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639756403.12571834.shell: line 12: /home/dtruong4/risapps/rhel7/python/3.7.3/etc/profile.d/conda.sh
+: No such file or directory
+/home/dtruong4/.bashrc
+: line 1: ./risapps/rhel7/python/3.7.3/etc/profile.d/conda.sh: No such file or directory
+/home/dtruong4/.bashrc
+: line 2: ./risapps/rhel7/python/3.7.3/etc/profile.d/conda.sh: No such file or directory
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639762444.12572948.shell: line 12: $'\r': command not found
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1639762629.12572955.shell: line 13: $'\r': command not found
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+/home/dtruong4/.lsbatch/1639762674.12572957.shell: line 13: $'\r': command not found
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639762768.12572958.shell: line 12: $'\r': command not found
+/home/dtruong4/.lsbatch/1639762768.12572958.shell: line 14: $'\r': command not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639762813.12572960.shell: line 12: $'\r': command not found
+/home/dtruong4/.lsbatch/1639762813.12572960.shell: line 14: $'\r': command not found
+usage: conda-env [-h] {create,export,list,remove,update,config} ...
+conda-env: error: invalid choice: 'list\r' (choose from 'create', 'export', 'list', 'remove', 'update', 'config')
+/home/dtruong4/.lsbatch/1639762813.12572960.shell: line 16: $'\r': command not found
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+/home/dtruong4/.lsbatch/1639762852.12572961.shell: line 12: $'\r': command not found
+/home/dtruong4/.lsbatch/1639762852.12572961.shell: line 14: $'\r': command not found
+usage: conda-env [-h] {create,export,list,remove,update,config} ...
+conda-env: error: invalid choice: 'list\r' (choose from 'create', 'export', 'list', 'remove', 'update', 'config')
+/home/dtruong4/.lsbatch/1639762852.12572961.shell: line 16: $'\r': command not found
+usage: conda [-h] [-V] command ...
+conda: error: unrecognized arguments: --envs
+/home/dtruong4/.lsbatch/1639762852.12572961.shell: line 18: $'\r': command not found
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+Could not find conda environment: scvelo
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+Could not find conda environment: scvelo_2
+You can list all discoverable environments with `conda info --envs`.
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+Could not find conda environment: scvelo_2
+You can list all discoverable environments with `conda info --envs`.
+
+Not a conda environment: /home/dtruong4/.conda/envs/scvelo_2
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Could not find conda environment: bbknn
+You can list all discoverable environments with `conda info --envs`.
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Could not find conda environment: bbknn
+You can list all discoverable environments with `conda info --envs`.
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+[TerminalIPythonApp] WARNING | File not found: 'Python/cnmf_dsrct_1.py'
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+(null): can't open file 'LSF_scripts/scripts/scvelo_LPS.py': [Errno 2] No such file or directory
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+  File "scripts/scvelo_LPS.py", line 18
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = T)
+      ^
+SyntaxError: invalid syntax
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+  File "scripts/scvelo_LPS.py", line 21
+    print('Job done')
+        ^
+SyntaxError: invalid syntax
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+  File "scripts/scvelo_LPS.py", line 22
+    
+                      ^
+SyntaxError: unexpected EOF while parsing
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+  File "scripts/scvelo_LPS.py", line 22
+    
+                      ^
+SyntaxError: unexpected EOF while parsing
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+WARNING: Your filename has more than two extensions: ['.cell', '.velocyto', '.h5ad'].
+Only considering the two last: ['.velocyto', '.h5ad'].
+WARNING: Your filename has more than two extensions: ['.cell', '.velocyto', '.h5ad'].
+Only considering the two last: ['.velocyto', '.h5ad'].
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 11, in <module>
+    adata_merged = scv.read("X:\LPS_scRNA\LPS_data.cell.velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = 'X:\LPS_scRNA\LPS_data.cell.velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 11, in <module>
+    adata_merged = scv.read("X:\LPS_scRNA\LPS_data_cell_velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = 'X:\LPS_scRNA\LPS_data_cell_velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 11, in <module>
+    adata_merged = scv.read("$SCRATCH\LPS_scRNA\LPS_data_cell_velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = '$SCRATCH\LPS_scRNA\LPS_data_cell_velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 14, in <module>
+    adata_merged = scv.read("\rsrch3\scratch\sarc_med_onco-rsch\dtruong4\LPS_scRNA\LPS_data_cell_velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = '
+srch3\scratch\sarc_med_onco-rsch\dtruong4\LPS_scRNA\LPS_data_cell_velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 14, in <module>
+    adata_merged = scv.read("..\rsrch3\scratch\sarc_med_onco-rsch\dtruong4\LPS_scRNA\LPS_data_cell_velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = '..
+srch3\scratch\sarc_med_onco-rsch\dtruong4\LPS_scRNA\LPS_data_cell_velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 14, in <module>
+    adata_merged = scv.read("../rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/LPS_data_cell_velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = '../rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/LPS_data_cell_velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 14, in <module>
+    adata_merged = scv.read(os.path.dirname(__file__) +"../rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/LPS_data_cell_velocyto.h5ad")
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 122, in read
+    **kwargs,
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/scanpy/readwrite.py", line 675, in _read
+    return read_h5ad(filename, backed=backed)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/anndata/_io/h5ad.py", line 408, in read_h5ad
+    with h5py.File(filename, "r") as f:
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/home/dtruong4/.local/lib/python3.7/site-packages/h5py/_hl/files.py", line 173, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 88, in h5py.h5f.open
+OSError: Unable to open file (unable to open file: name = 'scripts../rsrch3/scratch/sarc_med_onco-rsch/dtruong4/LPS_scRNA/LPS_data_cell_velocyto.h5ad', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 21, in <module>
+    scv.tl.velocity_graph(adata_merged, n_jobs = 20)
+NameError: name 'T' is not defined
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS_plotting.py", line 17, in <module>
+    scv.pl.velocity_embedding_stream(adata_merged, basis='umap', save = True)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/plotting/velocity_embedding_stream.py", line 263, in velocity_embedding_stream
+    savefig_or_show(dpi=dpi, save=save, show=show)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/plotting/utils.py", line 997, in savefig_or_show
+    if "/" in writekey:
+TypeError: argument of type 'NoneType' is not iterable
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Process SyncManager-1:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/managers.py", line 577, in _run_server
+    server.serve_forever()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/managers.py", line 173, in serve_forever
+    sys.exit(0)
+SystemExit: 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+KeyboardInterrupt
+Process LokyProcess-5:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+KeyboardInterrupt
+Process LokyProcess-10:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 420, in _process_worker
+    previous_tb = traceback.format_exc()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/traceback.py", line 163, in format_exc
+    return "".join(format_exception(*sys.exc_info(), limit=limit, chain=chain))
+KeyboardInterrupt
+Process LokyProcess-7:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 420, in _process_worker
+    previous_tb = traceback.format_exc()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/traceback.py", line 163, in format_exc
+    return "".join(format_exception(*sys.exc_info(), limit=limit, chain=chain))
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/traceback.py", line 117, in format_exception
+    type(value), value, tb, limit=limit).format(chain=chain))
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/traceback.py", line 460, in __init__
+    _seen = set()
+KeyboardInterrupt
+Process LokyProcess-4:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+KeyboardInterrupt
+Process LokyProcess-6:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 420, in _process_worker
+    previous_tb = traceback.format_exc()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/traceback.py", line 163, in format_exc
+    return "".join(format_exception(*sys.exc_info(), limit=limit, chain=chain))
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/traceback.py", line 104, in format_exception
+    def format_exception(etype, value, tb, limit=None, chain=True):
+KeyboardInterrupt
+Process LokyProcess-11:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 419, in _process_worker
+    except BaseException:
+KeyboardInterrupt
+Process LokyProcess-14:
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/queues.py", line 99, in get
+    if not self._rlock.acquire(block, timeout):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 297, in _bootstrap
+    self.run()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/multiprocessing/process.py", line 99, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py", line 407, in _process_worker
+    call_item = call_queue.get(block=True, timeout=timeout)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 17, in <module>
+    scv.tl.recover_dynamics(adata_merged, n_jobs = 20)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/tools/dynamical_model.py", line 521, in recover_dynamics
+    **kwargs,
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/core/_parallelize.py", line 135, in wrapper
+    for i, cs in enumerate(collections)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/parallel.py", line 1056, in __call__
+    self.retrieve()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/parallel.py", line 935, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/_parallel_backends.py", line 542, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/concurrent/futures/_base.py", line 427, in result
+    self._condition.wait(timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+KeyboardInterrupt
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:320: UserWarning: resource_tracker: There appear to be 16 leaked file objects to clean up at shutdown
+  (len(rtype_registry), rtype))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-0e3408dda2d745ad94092df9bc4554bf.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-abaaa2285ef84aacbdcf84871eb81211.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-9a3971414d424508bdbd72bc6c7e48d3.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-6aeae41763634436b9b9b1d2e1aa96d5.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-c96decdba8e142e9a900136aafca70db.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-02038bcbf6864234be17594eeaa037b5.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-7c55098796474d41a396c8c3d979afda.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-5d99661d8cc942768af0db63544da795.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-6556d3b046b5474d8e1aa6a2248d15bc.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-44e43d1cea5a467c92f48e764e3b8d56.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-96272f7259bb4b1fb25d8a037cbb2230.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-0c87736be56a4da4ba6e443c1ada9979.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-cea61f6e33774eadaa7b0ea12f44f6d2.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-1e8e19adfe474b02bfd80f44a4c8f299.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-a8425207bb2a4d29afce28b7426ef8a9.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/externals/loky/backend/resource_tracker.py:333: UserWarning: resource_tracker: /dev/shm/joblib_memmapping_folder_115177_15c83f95008c41ac901f2ecfd612264c_f6bb384c1d6a4a36a4366ea17f91b0da/115177-46914111681480-970277a3ef884930a421b839d1e9d9da.pkl: FileNotFoundError(2, 'No such file or directory')
+  warnings.warn('resource_tracker: %s: %r' % (name, e))
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 17, in <module>
+    scv.tl.recover_dynamics(adata_merged, n_jobs = 20)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/tools/dynamical_model.py", line 521, in recover_dynamics
+    **kwargs,
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/core/_parallelize.py", line 135, in wrapper
+    for i, cs in enumerate(collections)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/parallel.py", line 1056, in __call__
+    self.retrieve()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/parallel.py", line 935, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/_parallel_backends.py", line 542, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/concurrent/futures/_base.py", line 427, in result
+    self._condition.wait(timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+Traceback (most recent call last):
+  File "scripts/scvelo_LPS.py", line 21, in <module>
+    scv.tl.velocity_graph(adata_merged, n_jobs = 20)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/tools/dynamical_model.py", line 521, in recover_dynamics
+    **kwargs,
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/scvelo/core/_parallelize.py", line 135, in wrapper
+    for i, cs in enumerate(collections)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/parallel.py", line 1056, in __call__
+    self.retrieve()
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/parallel.py", line 935, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/site-packages/joblib/_parallel_backends.py", line 542, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/concurrent/futures/_base.py", line 427, in result
+    self._condition.wait(timeout)
+  File "/home/dtruong4/.conda/envs/scvelo_2/lib/python3.7/threading.py", line 296, in wait
+    waiter.acquire()
+KeyboardInterrupt
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+Terminated
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+User defined signal 2
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+User defined signal 2
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+Terminated
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+Terminated
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0
+
+User defined signal 2
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+Terminated
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+User defined signal 2
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+User defined signal 2
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+This is R/4.1.0
+Please create your own private library for modules.
+See: http://hpcweb.mdanderson.edu, User Guides/Personal application libraries
+
+The following have been reloaded with a version change:
+  1) gcc/7.1.0 => gcc/7.2.0     2) hdf5/1.10.5-hl => hdf5/1.10.5
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+The following have been reloaded with a version change:
+  1) gcc/7.2.0 => gcc/7.1.0
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+/home/dtruong4/.lsbatch/1646078631.13514343.shell: line 19: source: activate: file not found
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+Terminated
+Terminated

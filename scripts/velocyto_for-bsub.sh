@@ -1,11 +1,11 @@
 #! /bin/bash
 
-for f in $HOME/LPS_scRNA/*; do
+for f in $SCRATCH/LPS_scRNA/velo/*; do
     if [ -d "$f" ]; then
         # $f is a directory
 		echo "$f"
 		export f=$f
-		bsub < velocyto_jobs.lsf
+		bsub < $HOME/LSF_scripts/velocyto_jobs.lsf
 		sleep 1	# wait 1 second between each job submission
     fi
 done
